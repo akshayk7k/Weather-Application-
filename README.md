@@ -41,3 +41,5 @@ For any questions, feel free to reach out!
 🔗GitHub: [akshayk7k](https://github.com/akshayk7k)  
 📧Email: akshayk7k@gmail.com
 
+![image](https://github.com/user-attachments/assets/516fa9b2-9201-4c0d-ba08-1428eb4a1ebc)
+
