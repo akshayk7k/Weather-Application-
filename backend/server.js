@@ -5,7 +5,7 @@ const axios = require("axios");
 const app = express();
 app.use(cors());
 
-const API_KEY = "4be2e9d19ed68f84cbc4ba69f73373f7"; // Your OpenWeatherMap API key
+const API_KEY = "******************************"; // Your OpenWeatherMap API key
 
 // Default route for testing
 app.get("/", (req, res) => {
